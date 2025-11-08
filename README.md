@@ -125,16 +125,6 @@ House-Price-Prediction/
 
 ---
 
-## 📈 Sample Visualizations
-
-
-Correlation Heatmap	Predicted vs Actual
-
-|             Correlation Heatmap            |                 Predicted vs Actual                |
-| :----------------------------------------: | :------------------------------------------------: |
-| ![Heatmap](images/correlation_heatmap.png) | ![Prediction Plot](images/actual_vs_predicted.png) |
-
----
 
 ## 🧠 Learnings & Outcomes
 
