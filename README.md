@@ -12,7 +12,6 @@ Run this project **directly in your browser** — no installation required!
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ankit00u/OIBSIP2/HEAD?labpath=notebooks%2FHouse_Prices_Regression.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<GITHUB_USERNAME>/<REPO_NAME>/blob/HEAD/notebooks/House_Prices_Regression.ipynb)
 
-> ✏️ **Note:** Replace `<GITHUB_USERNAME>` and `<REPO_NAME>` above with your actual GitHub username and repository name.
 
 ---
 
